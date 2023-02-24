@@ -1,6 +1,6 @@
 flask~=2.2.3
 flask-smorest
-python-dotenv
+python-dotenv==1.0.0
 sqlalchemy
 flask-sqlalchemy
 pip~=23.0.1
